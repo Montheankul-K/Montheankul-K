@@ -23,6 +23,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/Montheankul-K"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Montheankul-K&stroke=6366f1&background=000000&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/Montheankul-K"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Montheankul-K&bg_color=000000&color=6366f1&line=ffffff&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Montheankul-K" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montheankul-K&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
