@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [Montheankul.K@gmail.com](mailto:Montheankul.K@gmail.com)
-* 🧠  I'm learning in field of DevOps, MLOps , Software Engineering and Data Engineering
+* 🧠  I'm learning in field of DevOps and Software Engineering
 
 ### Skills
 
